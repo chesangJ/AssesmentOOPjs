@@ -67,4 +67,5 @@ class Library:
 
 library=Library()
 library.add_book()
-library.details()
+library.details( )
+
